@@ -4,10 +4,10 @@ permalink: /ios-projects/
 title: "iOS Projects"
 author_profile: true
 header:
-  image: "/images/waterfront.png"
+  image: "/images/waterfront.jpg"
 ---
 
-# [ZomatoMVVM](/images/waterfront.png "Heading link")
+# [ZomatoMVVM](/images/waterfront.jpg "Heading link")
 
-# [ZomatoMVP](/images/waterfront.png "Heading link")
-[![](/images/waterfront.png)](/images/waterfront.png "Test Image")
+# [ZomatoMVP](/images/waterfront.jpg "Heading link")
+[![](/images/waterfront.jpg)](/images/waterfront.jpg "Test Image")
